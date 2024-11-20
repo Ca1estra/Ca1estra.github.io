@@ -5,20 +5,25 @@
     text-align: center;
 }
 .footer {
-    background-color: #e7e7e7;
+    background-color:#f3f3f3;
     padding: 10px;
     text-align: center;
     font-size: small;
     color: mediumblue;
-    text-decoration: underline;
     word-spacing: 30px;
 }
 
-img {
+.headerimg {
   display: block;
   margin:auto;
   width: 75%;
   min-width: 350px;
+}
+.headernavimg{
+    display: block;
+    margin:auto;
+    width:100%;
+    min-width:350px;
 }
 
   /* Create two equal columns that floats next to each other */
