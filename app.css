@@ -4,6 +4,15 @@
     padding: 20px;
     text-align: center;
 }
+.footer {
+    background-color: #e7e7e7;
+    padding: 10px;
+    text-align: center;
+    font-size: small;
+    color: mediumblue;
+    text-decoration: underline;
+    word-spacing: 30px;
+}
 
 img {
   display: block;
